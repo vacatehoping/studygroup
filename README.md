@@ -2,6 +2,4 @@
 
 Hello GitHub
 
-line 5
 
-line7
